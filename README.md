@@ -1,2 +1,2 @@
-# Justin-Westmoreland
+Responsive Portfolio
 Week 02
