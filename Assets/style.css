@@ -69,9 +69,13 @@ h1 {
     font-family: 'Krona One', sans-serif;
     color: black;
     text-align: center;
-    margin: 0;
+    margin-bottom: 0;
 }
 
 .centered {
     text-align: center;
+}
+
+.container {
+    margin-bottom: 100px;
 }
