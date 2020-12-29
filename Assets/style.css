@@ -4,6 +4,10 @@
     color: black;
 }
 
+.col-md-4 {
+    font-size: 10px;
+}
+
 .bioimage {
     width: 33%;
     margin-right: 15px;
@@ -34,14 +38,15 @@ h1 {
     color: white;
 }
 
-.nav-link.disabled {
-    color: white;
-    font-weight: 800;
+.navbar-brand {
+    font-size: 1.0rem;
+    font-family: 'Krona One', sans-serif;
 }
 
 .nav {
     position: relative;
     width: 100%;
+    font-family: 'Krona One', sans-serif;
 }
 
 .btn {
@@ -55,7 +60,7 @@ h1 {
 
 .portimg {
     width: 100%;
-    margin: 20px;
+    margin-top: 20px;
 }
 
 .footer {
@@ -71,10 +76,7 @@ h1 {
     margin-bottom: 0;
 }
 
-.centered {
-    text-align: center;
-}
-
 .container {
     margin-bottom: 100px;
 }
+
